@@ -1,0 +1,4 @@
+Hello World
+Hello CodeEval
+
+The second piece of code with the javascript
